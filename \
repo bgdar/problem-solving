@@ -1,0 +1,19 @@
+matrix_1 = [[2,4],[6,8]]
+matrix_2 = [[2,5],[7,9]]
+print("example matrix")
+print(matrix_1)
+
+print("Penjumlahan :\n")
+for mx_1 in matrix_1:
+    for mx_2 in matrix_2 :
+        operasi_colom1 = mx_1[0] + mx_2[0]
+        operasi_colom2 = mx_1[1] + mx_2[1]
+        print("[",operasi_colom1,operasi_colom2,"]")
+
+print("Pengurangan :\n")
+for mx_1 in matrix_1 :
+    for mx_2 in matrix_2:
+        operasi_colom1 = mx_1[0] - mx_2[0]
+        operasi_colom2 = mx_2[1] - mx_2[1]
+        print("[",operasi_colom1,operasi_colom2,"]")
+                                        
