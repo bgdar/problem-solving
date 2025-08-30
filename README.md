@@ -1,11 +1,25 @@
 <h1 align="center"> Poblem Solving </h1>
 
-### Competitive Programming Profiles
+<p align="center">
+  <a href="https://leetcode.com/bgdar">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.codewars.com/users/bgdar">
+    <img src="https://img.shields.io/badge/Codewars-Profile-red?logo=codewars" alt="Codewars Profile" />
+  </a>
+  <a href="https://www.hackerrank.com/bgdar">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/bgdar)
-[![Codewars](https://img.shields.io/badge/Codewars-Profile-red?logo=codewars)](https://www.codewars.com/users/bgdar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bgdar)
+###  Stats  
 
-** Stats**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bgdar?theme=dark&font=Karma)](https://leetcode.com/bgdar)
-![Codewars](https://www.codewars.com/users/bgdar/badges/large)
+<p align="center">
+  <a href="https://leetcode.com/bgdar">
+    <img src="https://leetcard.jacoblin.cool/bgdar?theme=dark&font=Karma" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/bgdar/badges/large" alt="Codewars Badge" />
+</p>
