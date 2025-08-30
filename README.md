@@ -1,5 +1,6 @@
 <h1 align="center"> Poblem Solving </h1>
 
+###  Competitive Programming Profiles  
 <p align="center">
   <a href="https://leetcode.com/bgdar">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode Profile" />
