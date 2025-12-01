@@ -8,7 +8,7 @@
   <a href="https://www.codewars.com/users/bgdar">
     <img src="https://img.shields.io/badge/Codewars-Profile-red?logo=codewars" alt="Codewars Profile" />
   </a>
-  <a href="https://www.hackerrank.com/bgdar">
+  <a href="https://www.hackerrank.com/profile/akunzero975">
     <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
   </a>
 </p>
